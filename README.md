@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raguram147&show_icons=true&locale=en&layout=compact" alt="raguram147" /></p>
 
-<p>&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=raguram147&show_icons=true&locale=en" alt="raguram147" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=raguram147&show_icons=true&locale=en" alt="raguram147" /></p>
