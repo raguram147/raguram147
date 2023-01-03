@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 💬 Ask me about **Python, Data Science**
+- 💬 Ask me about **Data Handling,Model Training,Web and Software Development**
 
 - 📫 How to reach me **ragurams2000@gmail.com**
 
