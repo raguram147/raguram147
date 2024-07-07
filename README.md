@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raguram Sundaravadivel</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate software engineer transform the requirement into working technology</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="code"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raguram147&label=Profile%20views&color=0e75b6&style=flat" alt="raguram147" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 💬 Ask me about **Data Handling,Model Training,Web and Software Development**
+- 💬 Ask me about **Application development Data Handling, Model Training, Web and Software Development**
 
 - 📫 How to reach me **ragurams2000@gmail.com**
 
-- ⚡ Fun fact **I'm a lazy, where lazy people are smart to complete the task.**
+- ⚡ Fun fact **I'm lazy, whereas lazy people are smart enough to complete tasks.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
